@@ -1,0 +1,36 @@
+5 	Murray 	-1
+9 	Alla 	-1 	Not about systematic reviews. Article is a review in itself.
+10	Rivas	-1	I would even give a -2. Its about analysing doctor reviews	
+13	Leroy	-1	Possibly -2. about EHR and detecting Autism
+14	Thom	-1	Network meta-analyses
+15	Mavragani-2	Google trends and monitoring behaviour for prevention purposes
+19	Ienca	-2	Sys rev. on implications of using big data (for ethics committees)
+21	Liyanage -2	Likely no useful methodology, seems to be just a review
+22	Chazard	1	Potentially interesting for IPD systematic reviews
+28	Cheung	-2	General methodology paper, no ML	
+30	Anderson -1	Methodology comparison, seems like no actual approach
+31	Pacheco	-2	EHR and Genomics
+34	Wanner	1	Potentially interesting to help with the searches
+35	Tvardik	-1	EHR: nlp and analysis for infection prevention
+36	Richter	-2	Data analysis for clinical use and prevention
+48	Kornfield -2	Very specific analysis of messages in internet fora
+
+56	Tso	-2	Neuroscience study
+58	Al-Saffar -2	About sentiment analysis 
+60	Williams -2	Literature review on optimising clinical processes
+68	Ruano	-1	Protocol, about analysing SR protocols and probability that finished review will be published.
+74	Gehrmann -1	Cohort identification from EHR
+75	Fernandez-Luque -2 Processing social media info for decision making in crisis situations
+85	He	-1	No direct application to SR?????	
+87	Boyd	-2	Literature review on visualisation of EHR
+
+104	Bramer	1	Helping with search strategies by converting syntaxes
+107	Trivedi -1	Extracting info from clinical text
+123	Bashir	-1	On reporting of registered trials
+
+160	Cahan	-1	No Nlp/ML, about generalisability of trial results, seems to be more methodology
+164	Gu	-1	Literature review
+170	Kadi	-1	No direct connection to SR
+182	Varghese 1	UMLS and international data standard is first step towards easy automatic processing of data
+184	Shemilt	1	About effects of automating SR
+197	Millar	-1	Description of SNOMEd, no methodology of how to use it for mining SR data.
